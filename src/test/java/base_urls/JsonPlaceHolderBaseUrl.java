@@ -16,7 +16,7 @@ public class JsonPlaceHolderBaseUrl {
                 .setContentType(ContentType.JSON)
                 .setBaseUri("https://jsonplaceholder.typicode.com/")
                 .setAccept(ContentType.JSON)
-                .build();
+                .build();//
     }
 
 }
